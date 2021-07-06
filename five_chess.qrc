@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new">
+        <file alias="fiv_chess">fivechess.jpg</file>
+        <file>back.jpg</file>
+        <file>running.mp3</file>
+    </qresource>
+</RCC>
